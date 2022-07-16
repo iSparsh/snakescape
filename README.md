@@ -26,3 +26,6 @@ turtle
 random
 ```
 ## Screenshots
+![image](https://user-images.githubusercontent.com/57213270/179367463-eb34fbb4-f882-4ba5-923e-f485cda7082f.png)
+![image](https://user-images.githubusercontent.com/57213270/179367491-c22f7001-4a44-4e99-aed2-e8da75f77132.png)
+![image](https://user-images.githubusercontent.com/57213270/179367525-dac04408-06c3-4592-b610-a66791cf7392.png)
